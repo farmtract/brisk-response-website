@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://briskresponse.com
+Sitemap: https://briskresponse.com/sitemap.xml
